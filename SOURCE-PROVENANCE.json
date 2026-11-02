@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "documented-distribution-not-published",
+  "status": "README-banner-update-prepared-locally",
   "originalRepository": "https://github.com/luisfor/Canedo-Web-Studio.git",
   "originalHead": "3ebb378",
   "originalFilesVerifiedUnchanged": 565,
@@ -227,16 +227,16 @@
       "path": "PUBLICATION-FILES.txt",
       "sourcePath": null,
       "sourceSha256": null,
-      "transformation": "new-prepublication-document",
-      "preparedSha256": "8d75918f333ad12948c55d06e8f76562a15b86051acf3ff260c882bc72ea3802",
+      "transformation": "adapted-copy-banner-update",
+      "preparedSha256": "d516a0b10e05f6adf0d66fea8706398298ac4f39f2d6f6080f2e6a09d16b6576",
       "licenseStatus": "ISC-original-code-owner-declared-CanedoStudio-local-provenance-reviewed"
     },
     {
       "path": "README.md",
       "sourcePath": "README.md",
       "sourceSha256": "7befa82969b0ade2bd36edb433a915bd751fa5cdb2b6ec62d32dd7e9c8c4bdfa",
-      "preparedSha256": "be5afda27c6101658ca2853d08ed7d0bf9a815dd8ad6f917285339d748e5148b",
-      "transformation": "adapted-copy",
+      "preparedSha256": "aca5f71c86400ed942384fdaac649f1154887c4a0234eb8b38eb8e2b271d521b",
+      "transformation": "adapted-copy-banner-update",
       "licenseStatus": "ISC-original-code-owner-declared-CanedoStudio-local-provenance-reviewed"
     },
     {
@@ -251,8 +251,8 @@
       "path": "THIRD-PARTY-NOTICES.md",
       "sourcePath": null,
       "sourceSha256": null,
-      "preparedSha256": "c325cb5b3ef9a22ab538801ced4778459981c28f02a7b1de0c3cd20124a8d437",
-      "transformation": "new-distribution-document-or-verification",
+      "preparedSha256": "c2bf4b6eaabdadb77424d46e4a15cf35c735af4922e17a71c45b0b0757296d8f",
+      "transformation": "adapted-copy-banner-update",
       "licenseStatus": "ISC-original-code-owner-declared-CanedoStudio-local-provenance-reviewed"
     },
     {
@@ -398,6 +398,14 @@
       "preparedSha256": "48e66510f942e29250711d893af8739cf9039bd45c465dcc763922b7c2ec6d1a",
       "transformation": "unchanged-copy",
       "licenseStatus": "ISC-original-code-owner-declared-CanedoStudio-local-provenance-reviewed"
+    },
+    {
+      "path": "docs/assets/canedo-devkit-banner.png",
+      "sourcePath": null,
+      "sourceSha256": "f8c57119c5ac8357e61735714547d1f14db6f5a38bb8b969dce1aa45be0d0523",
+      "transformation": "owner-provided-banner-copied-unchanged",
+      "licenseStatus": "owner-authorized-README-display; no-third-party-relicensing",
+      "preparedSha256": "f8c57119c5ac8357e61735714547d1f14db6f5a38bb8b969dce1aa45be0d0523"
     },
     {
       "path": "docs/cli/README.md",

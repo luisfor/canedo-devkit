@@ -49,6 +49,7 @@ docs/TOOL-CATALOG.md
 docs/TOOL-INSTALLERS.md
 docs/WORKSPACE-OPERATIONS.md
 docs/architecture/README.md
+docs/assets/canedo-devkit-banner.png
 docs/cli/README.md
 docs/cli/resource-efficiency.md
 docs/cli/universal-planning.md

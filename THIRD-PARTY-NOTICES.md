@@ -6,3 +6,7 @@
 - **Fuentes arquitectónicas**: AFPVentas y Vocero CRM se registran como referencias sin importar código. AppFlowy y Clone Wars son enlaces/referencias, no dependencias empaquetadas. No se concede permiso general de copia.
 
 Se excluyen plugins n8n, fuentes/bundles/WASM de automatismos y recursos ajenos al núcleo. El resto del código seleccionado procede del árbol local del kit: el manifiesto identifica hashes y archivos adaptados. ISC se aplica únicamente al código original con CanedoStudio como titular declarado por el propietario. La revisión documental local y sus límites están en [aprobación y alcance](LICENSE-PROPOSAL.md); esta lista no afirma una certificación jurídica independiente de toda contribución histórica. Los archivos aquí atribuidos a terceros conservan sus licencias y titulares, sin relicenciamiento.
+
+## Imagen de portada
+
+`docs/assets/canedo-devkit-banner.png` fue aportada por el propietario para incorporarla al README. Se conserva sin modificaciones. La autorización de uso como portada no cambia las licencias del código ni atribuye permisos adicionales de terceros.

@@ -1,3 +1,5 @@
+![Canedo Studio Development Kit — De la idea al software](docs/assets/canedo-devkit-banner.png)
+
 # Canedo Devkit
 
 Asistente técnico local para desarrolladores y agentes compatibles con CLI/JSON o MCP. Flujo: **solicitud → análisis del kit → preparación revisable → desarrollo por el agente → validación → mejora**.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "documented-distribution-awaiting-publication-authorization",
+  "status": "README-banner-update-awaiting-publication-authorization",
   "intendedRepository": "luisfor/canedo-devkit",
   "license": "ISC-original-code-third-parties-excepted",
   "cleanInstallation": "PENDIENTE DE VERIFICACIÓN",
@@ -142,13 +142,13 @@
     },
     {
       "path": "PUBLICATION-FILES.txt",
-      "bytes": 7404,
-      "sha256": "8d75918f333ad12948c55d06e8f76562a15b86051acf3ff260c882bc72ea3802"
+      "bytes": 7441,
+      "sha256": "d516a0b10e05f6adf0d66fea8706398298ac4f39f2d6f6080f2e6a09d16b6576"
     },
     {
       "path": "README.md",
-      "bytes": 14212,
-      "sha256": "be5afda27c6101658ca2853d08ed7d0bf9a815dd8ad6f917285339d748e5148b"
+      "bytes": 14311,
+      "sha256": "aca5f71c86400ed942384fdaac649f1154887c4a0234eb8b38eb8e2b271d521b"
     },
     {
       "path": "SECURITY.md",
@@ -157,13 +157,13 @@
     },
     {
       "path": "SOURCE-PROVENANCE.json",
-      "bytes": 118516,
-      "sha256": "4056aec1c5c2d9eb7061e6aa148dbfa0f00320ac7d10bb654dfff20f64d381d1"
+      "bytes": 118940,
+      "sha256": "7e6e761a7b54468e59e7f6dbe783e89e667690a808b71d4b0537f6581ece8808"
     },
     {
       "path": "THIRD-PARTY-NOTICES.md",
-      "bytes": 1841,
-      "sha256": "c325cb5b3ef9a22ab538801ced4778459981c28f02a7b1de0c3cd20124a8d437"
+      "bytes": 2115,
+      "sha256": "c2bf4b6eaabdadb77424d46e4a15cf35c735af4922e17a71c45b0b0757296d8f"
     },
     {
       "path": "catalog/commercial/combinations.json",
@@ -254,6 +254,11 @@
       "path": "docs/architecture/README.md",
       "bytes": 3706,
       "sha256": "48e66510f942e29250711d893af8739cf9039bd45c465dcc763922b7c2ec6d1a"
+    },
+    {
+      "path": "docs/assets/canedo-devkit-banner.png",
+      "bytes": 1542288,
+      "sha256": "f8c57119c5ac8357e61735714547d1f14db6f5a38bb8b969dce1aa45be0d0523"
     },
     {
       "path": "docs/cli/README.md",
@@ -1096,9 +1101,9 @@
       "sha256": "ed3c99a03ef7c1af7d1e47785ec0990a2ae246785bd2006fb314a622df7c2fb7"
     }
   ],
-  "fileCountExcludingManifest": 218,
-  "fileCountIncludingManifest": 219,
-  "bytesExcludingManifest": 1545625,
+  "fileCountExcludingManifest": 219,
+  "fileCountIncludingManifest": 220,
+  "bytesExcludingManifest": 3088747,
   "selfHashIncluded": false,
   "scope": "integrity-not-signature-or-independent-legal-title-verification",
   "checks": {
@@ -1129,5 +1134,9 @@
     "publicationExecuted": false
   },
   "excludedPathInventory": "SOURCE-PROVENANCE.json",
-  "exactPublicationCandidateList": "PUBLICATION-FILES.txt"
+  "exactPublicationCandidateList": "PUBLICATION-FILES.txt",
+  "readmeBannerUpdate": {
+    "imageCopiedUnmodified": true,
+    "fileCount": 220
+  }
 }
